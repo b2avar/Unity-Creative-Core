@@ -40,6 +40,8 @@ Material:
     - Vector1_B24B895D: 25
     - Vector1_EECA8E2B: 0.4
     - Vector1_F2708DFC: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
     m_Colors:
     - Color_C66DE798: {r: 7.496593, g: 4.199662, b: 1.0597278, a: 0}
     - Vector2_ED508732: {r: 0.2, g: 0.9, b: 0, a: 0}
